@@ -1,1 +1,3 @@
-# .github
+# Planemath
+
+Jogo de aviãozinho
