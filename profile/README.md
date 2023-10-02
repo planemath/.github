@@ -8,7 +8,7 @@
 	 - `NNNN`: Nome da Branch 
 	 - `Type`: Tipo
 	
-- Pull Requests
+ - Pull Requests
 	- Os Pull Request's também devem ser identificados porém com o padrão: `0000-Description `
 	- `0000`:Número da Issue
 	- `Description`: Descrição
