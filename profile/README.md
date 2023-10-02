@@ -1,12 +1,28 @@
-## Hi there 👋
+#  Planemath
 
-<!--
+Esse é o primeiro de vários jogos que serão incorporados na futura plataforma de jogos educacionais que desenvolveremos após o êxito do projeto piloto. 
 
-**Here are some ideas to get you started:**
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
+
+- [Primeira aplicação em Flutter](https://docs.flutter.dev/get-started/codelab)
+
+- [Templates do Flutter](https://docs.flutter.dev/cookbook)
+
+
+
+# Project rules
+
+ 1.  Criação de Branches
+	 
+	 - Todas as branches devem ser identificadas seguindo o seguinte padrão: [**0000** - **NNNN** - **Type**] 
+	 --  0000 = = Número da Issue
+	 -- NNNN = = Nome da Branch 
+	 -- Type = = Tipo
+	
+	2. Pull Requests
+	
+		- Os Pull Request's também devem ser identificados porém com o padrão: [**0000** - **Description**]
+		-- 0000 = = Número da Issue
+		-- Description = =  Descrição
