@@ -1,18 +1,6 @@
 #  Planemath
 
-Esse é o primeiro de vários jogos que serão incorporados na futura plataforma de jogos educacionais que desenvolveremos após o êxito do projeto piloto. 
-
-Este projeto é um ponto de partida para uma aplicação Flutter.
-
-Alguns recursos para você começar se este for seu primeiro projeto Flutter:
-
-- [Primeira aplicação em Flutter](https://docs.flutter.dev/get-started/codelab)
-
-- [Templates do Flutter](https://docs.flutter.dev/cookbook)
-
-
-
-# Project rules
+## Project rules
 
  1.  Criação de Branches
 	 
