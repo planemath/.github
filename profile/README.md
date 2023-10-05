@@ -21,10 +21,9 @@
 
 ## Horas
 
-| Quarta-Feira | Quinta-Feira | Sexta-feira | Segunda-Feira | Terça-Feira |
-|--------------|--------------|-------------|---------------|-------------|
-| 2 | 1 | 3 | 4 | 1 |
-
+|Membro| Quarta-Feira | Quinta-Feira | Sexta-feira | Segunda-Feira | Terça-Feira |
+|--|--------------|--------------|-------------|---------------|-------------|
+|Diogo| 2 | 3 | 1 | 8 | 8 |
 
 
 ## Pontuação de task
