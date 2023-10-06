@@ -12,10 +12,10 @@
 	- Os Pull Request's também devem ser identificados porém com o padrão: `0000-Description `
 	- `0000`:Número da Issue
 	- `Description`: Descrição
-- Commits:
-        - Para features: "feat: ...."
-  	- Para bugs: "bugfix: ..."
-  	- Para Prova de Conceito: "poc: ..."
+ - Commits 
+ 	- Para features: "feat: ...."
+	- Para bugs: "bugfix: ..."
+	- Para Prova de Conceito: "poc: ..."
   	  
 
 
