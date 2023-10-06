@@ -28,3 +28,31 @@
 
 ## Pontuação de task
 
+
+## Work Flow
+
+
+```mermaid
+graph LR
+
+R{Repasse} -->   D[Desenvolvimento]--> V((Validação))
+```
+```mermaid
+graph LR
+
+
+
+A[Peguei a Task] --> B{Repasse da Task}
+B --> C[Criar roteiro de testes / Testes automatizados ] 
+C --> D[Desenvolvimento da task] 
+E --> D
+C --> E{Validação do roteiro de testes}
+D --> F[Desenvolvimento de testes unitários seguindo o roteiro]
+F --> G((Checklist de engenharia ))
+F --> H((Checklist Funcional))
+H --> I
+G --> I[Criar Pull Request]
+I --> J[Code Review]
+J ==> K[Merge]
+
+```
