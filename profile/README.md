@@ -3,10 +3,10 @@
 ## Project rules
 
  - Criação de Branches
-	 - Todas as branches devem ser identificadas seguindo o seguinte padrão: `0000-NNNN-Type `
+	 - Todas as branches devem ser identificadas seguindo o seguinte padrão: `0000-Type-NNNN `
 	 - `0000`: Número da Issue
-	 - `NNNN`: Nome da Branch 
 	 - `Type`: Tipo
+	 - `NNNN`: Nome da Branch 
 	
  - Pull Requests
 	- Os Pull Request's também devem ser identificados porém com o padrão: `0000-Description `
